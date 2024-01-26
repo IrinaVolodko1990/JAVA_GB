@@ -1,0 +1,4 @@
+янв. 26, 2024 12:11:39 PM ru.geekbrains.OOP.seminars.seminar2.Sem2_4 writeToFile
+INFO: Text in file!)
+янв. 26, 2024 12:11:54 PM ru.geekbrains.OOP.seminars.seminar2.Sem2_4 writeToFile
+INFO: Text in file!)
